@@ -1,0 +1,1 @@
+This directory contains the copy of data which is available on [Kaggle](https://www.kaggle.com/mysarahmadbhat/120-years-of-olympic-history). This copy is created to ensure that the if the dataset is removed from Kaggle or if the location is changed, then this copy can still feed the relevant of this notebook for learning purpose
